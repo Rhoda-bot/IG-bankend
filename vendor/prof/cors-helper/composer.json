@@ -1,0 +1,34 @@
+{
+    "name": "prof/cors-helper",
+    "description": "This library is to enable cross site origin sharing",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Taye Abidakun",
+            "email": "tayeabidakun@gmail.com"
+        },
+         {
+            "name": "Babatunde Joseph",
+            "email": "babatundejoseph85@gmail.com"
+        },
+         {
+            "name": "Taiwo Rhoda",
+            "email": "taiworhodaanuoluwa@gmail.com"
+        },
+         {
+            "name": "Olutoye Abiodun",
+            "email": "abiodunolutoye1912@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{"CorsHelper\\":"src/"
+
+        }      
+    },
+    "require": {}
+   
+    
+}

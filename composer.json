@@ -1,0 +1,7 @@
+{
+    "require": {
+        "firebase/php-jwt": "^5.4",
+        "prof/cors-helper": "^1.7",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
